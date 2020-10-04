@@ -1,0 +1,1 @@
+print("Functions fo analyzing")
